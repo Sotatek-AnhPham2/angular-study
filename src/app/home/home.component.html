@@ -1,0 +1,18 @@
+<section>
+  <form>
+    <input type="text" placeholder="Filter by city" #keySearch />
+    <button
+      class="primary"
+      type="button"
+      (click)="filterResults(keySearch.value)"
+    >
+      Search
+    </button>
+    <div class="list">
+      <app-housing-location
+        *ngFor="let item of filteredLocationList"
+        [housingLocation]="item"
+      ></app-housing-location>
+    </div>
+  </form>
+</section>

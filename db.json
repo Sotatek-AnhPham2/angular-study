@@ -1,0 +1,34 @@
+{
+  "locations": [
+    {
+      "id": 0,
+      "name": "Acme Fresh Start Housing",
+      "city": "Chicago",
+      "state": "IL",
+      "photo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx_M1YLNoqbx2BLUVLGADv7J8SjQLjEABK3oeESfZ0A4G7mw-YAZkomJtzuqf0aiV1gUR1iEFfwdUe4KrU5RFi-UgWp1fUD5hRIaDfIQ",
+      "availableUnits": 4,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": 1,
+      "name": "A113 Transitional Housing",
+      "city": "Santa Monica",
+      "state": "CA",
+      "photo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx_M1YLNoqbx2BLUVLGADv7J8SjQLjEABK3oeESfZ0A4G7mw-YAZkomJtzuqf0aiV1gUR1iEFfwdUe4KrU5RFi-UgWp1fUD5hRIaDfIQ",
+      "availableUnits": 0,
+      "wifi": false,
+      "laundry": true
+    },
+    {
+      "id": 2,
+      "name": "Warm Beds Housing Support",
+      "city": "Juneau",
+      "state": "AK",
+      "photo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx_M1YLNoqbx2BLUVLGADv7J8SjQLjEABK3oeESfZ0A4G7mw-YAZkomJtzuqf0aiV1gUR1iEFfwdUe4KrU5RFi-UgWp1fUD5hRIaDfIQ",
+      "availableUnits": 1,
+      "wifi": false,
+      "laundry": false
+    }
+  ]
+}
